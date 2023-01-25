@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747010019232",
+    "project_id": "prototype-2-uthm-hrapp",
+    "storage_bucket": "prototype-2-uthm-hrapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747010019232:android:aae2c2f4dd3f9e20491ec5",
+        "android_client_info": {
+          "package_name": "com.example.prototype_2_uthm_hrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747010019232-ftipsi028ipe1t1m3mo82fq1p3dfka5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5iMWq6lTJk9Ty_LXXZZXk9SiiThnK4p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747010019232-ftipsi028ipe1t1m3mo82fq1p3dfka5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
